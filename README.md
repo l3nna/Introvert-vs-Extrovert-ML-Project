@@ -1,6 +1,5 @@
 # Introvert-vs-Extrovert-ML-Project
 
-#  Introvert vs Extrovert – Data Analysis Project
 
 A modern, data-driven exploration of **introversion and extroversion**, built using Python and Jupyter Notebook. This project transforms abstract personality traits into measurable insights through analysis, visualization, and basic statistical methods.
 
